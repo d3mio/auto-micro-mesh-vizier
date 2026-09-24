@@ -1,0 +1,5 @@
+docker
+psutil
+matplotlib
+Pillow
+tqdm
